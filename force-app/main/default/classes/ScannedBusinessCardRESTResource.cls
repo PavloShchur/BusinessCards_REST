@@ -1,6 +1,6 @@
 @RestResource(urlMapping='/businessCard')
 global without sharing class ScannedBusinessCardRESTResource {
-    
+
     @HttpGet
     global static void doGet() {
         ScannedBusinessCardRESTService.doGet();
