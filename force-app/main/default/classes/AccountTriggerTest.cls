@@ -10,17 +10,13 @@ public class AccountTriggerTest {
         for(Integer i = 0; i < 100; i++) {
             
             listOfCards.add(
-                
                 new Scanned_Business_Cards__c(
-                    
                     Account_Name__c = 'accountName' + i,
                     First_Name__c = 'firstName' + i,
                     Last_Name__c = 'lastName' + i,
                     Created_By_Id__c = '0050O000006eb3n',
                     Phone__c = '12345'
-                    
-                ));  
-            
+                ));
         }
         
         insert listOfCards;

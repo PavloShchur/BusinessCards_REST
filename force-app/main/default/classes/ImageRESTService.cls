@@ -15,7 +15,7 @@ global class ImageRESTService {
         if(cardId != null) {
             List<Attachment> a = [SELECT Body, ParentId FROM Attachment WHERE ParentId = :cardId];
             if(!a.isEmpty()) {
-                RestContext.response.addHeader('Content-Type', 'application/json');
+                Response.getInstance().setHeader('Content-Type', 'application/json');
 
                 Response.getInstance().setBody(Blob.valueOf(JSON.serialize(
                         new DTOScannedBusinessCard.StatusMessage(

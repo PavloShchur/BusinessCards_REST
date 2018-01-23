@@ -21,9 +21,9 @@ public without sharing class Response {
 		return getInstance().response;
 	}
 
-	public Response setBody( String responseBody ) {
-		if( responseBody == null ) responseBody = '';
-		return setBody( Blob.valueOf( responseBody ) );
+	public Response setHeader(String contentType, String applicationJSON) {
+		getResponse().addHeader(contentType, applicationJSON);
+		return getInstance();
 	}
 
 	public Response setBody( Blob responseBody ) {

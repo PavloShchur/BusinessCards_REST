@@ -2,7 +2,7 @@ global class ScannedBusinessCardRESTService {
 
 	public static void doGet() {
 
-		RestContext.response.addHeader(Constants.HEADER_CONTENT_TYPE, Constants.CONTENT_TYPE_APPLICATION_JSON);
+		Response.getInstance().setHeader(Constants.HEADER_CONTENT_TYPE, Constants.CONTENT_TYPE_APPLICATION_JSON);
 
 		String userId = RestContext.request.params.get('creatorId');
 		String status = RestContext.request.params.get('status');

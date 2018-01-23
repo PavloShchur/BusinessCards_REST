@@ -2,14 +2,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516621402614,
             "changeTime": 1516621402614,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516621402615,
             "changeTime": 1516621402615,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632094291,
-            "changeTime": 1516632094291,
+            "modifiedTime": 1516705332189,
+            "changeTime": 1516705332189,
             "contentHash": "2ff0de2f1b84a936baf0e20168342c3640e8effe",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516621402625,
             "changeTime": 1516621402625,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632092726,
-            "changeTime": 1516632092726,
-            "contentHash": "b305a91c4cbc14ef327a8ea61053ca8f5090f72a",
+            "modifiedTime": 1516705330603,
+            "changeTime": 1516705330603,
+            "contentHash": "4845b60e20fbb563f95baa3fd8d9a5a8e1adf18e",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\AccountTriggerTest.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\AccountTriggerTest.cls",
             "isDirectory": false,
+            "size": 5709,
+            "modifiedTime": 1516705330230,
+            "changeTime": 1516705330230,
+            "contentHash": "60d9ba295712d89cf21aff260fe317bfcc78a448",
             "isMetadataFile": false,
-            "size": 5783,
-            "modifiedTime": 1516632092268,
-            "changeTime": 1516632092268,
-            "contentHash": "5d5bea27db25380a8ef087540422b2c84a4598f0",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\AccountTriggerTest.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\AccountTriggerTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092261,
-            "changeTime": 1516632092261,
+            "modifiedTime": 1516705330222,
+            "changeTime": 1516705330222,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelper.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelper.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 4703,
-            "modifiedTime": 1516632092297,
-            "changeTime": 1516632092297,
+            "modifiedTime": 1516705330258,
+            "changeTime": 1516705330258,
             "contentHash": "8e02b6adcdecac67a949fa8f2d17687e3c2d985b",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelper.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelper.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092291,
-            "changeTime": 1516632092291,
+            "modifiedTime": 1516705330251,
+            "changeTime": 1516705330251,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +137,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelperTest.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelperTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14465,
-            "modifiedTime": 1516632092317,
-            "changeTime": 1516632092317,
+            "modifiedTime": 1516705330279,
+            "changeTime": 1516705330279,
             "contentHash": "7a77568209a8e8c708982c6afbf45dbc1533ea60",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +152,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelperTest.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\CardTriggerHelperTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092312,
-            "changeTime": 1516632092312,
+            "modifiedTime": 1516705330274,
+            "changeTime": 1516705330274,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +167,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Constants.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Constants.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1221,
-            "modifiedTime": 1516632092361,
-            "changeTime": 1516632092361,
+            "modifiedTime": 1516705330298,
+            "changeTime": 1516705330298,
             "contentHash": "120f35c6934ebddf5d11c793ea4a30861dff1180",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +182,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Constants.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Constants.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092354,
-            "changeTime": 1516632092354,
+            "modifiedTime": 1516705330293,
+            "changeTime": 1516705330293,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +197,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTestUtilities.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTestUtilities.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 343,
-            "modifiedTime": 1516632092387,
-            "changeTime": 1516632092387,
+            "modifiedTime": 1516705330313,
+            "changeTime": 1516705330313,
             "contentHash": "7901d762b3f7cf214c9d32efee1689bbd68b2dd0",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +212,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTestUtilities.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTestUtilities.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092381,
-            "changeTime": 1516632092381,
+            "modifiedTime": 1516705330309,
+            "changeTime": 1516705330309,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +227,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTriggerTest.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTriggerTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 12044,
-            "modifiedTime": 1516632092412,
-            "changeTime": 1516632092412,
+            "modifiedTime": 1516705330333,
+            "changeTime": 1516705330333,
             "contentHash": "dfba55277bd94f81229f1d173a18d5fcb050460b",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +242,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTriggerTest.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ContactTriggerTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092404,
-            "changeTime": 1516632092404,
+            "modifiedTime": 1516705330327,
+            "changeTime": 1516705330327,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +257,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\DTOScannedBusinessCard.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\DTOScannedBusinessCard.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 4075,
-            "modifiedTime": 1516632092440,
-            "changeTime": 1516632092440,
+            "modifiedTime": 1516705330354,
+            "changeTime": 1516705330354,
             "contentHash": "8a8db5ac792e07b7c91b20f6512fd3bd63d24a65",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +272,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\DTOScannedBusinessCard.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\DTOScannedBusinessCard.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092433,
-            "changeTime": 1516632092433,
+            "modifiedTime": 1516705330346,
+            "changeTime": 1516705330346,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +287,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\GeneralService.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\GeneralService.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 8294,
-            "modifiedTime": 1516632092466,
-            "changeTime": 1516632092466,
+            "modifiedTime": 1516705330377,
+            "changeTime": 1516705330377,
             "contentHash": "e698f4fa6c0fa98ace0c4392ad74448b863e09b8",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +302,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\GeneralService.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\GeneralService.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092460,
-            "changeTime": 1516632092460,
+            "modifiedTime": 1516705330370,
+            "changeTime": 1516705330370,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +317,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTResource.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTResource.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 276,
-            "modifiedTime": 1516632092493,
-            "changeTime": 1516632092493,
+            "modifiedTime": 1516705330399,
+            "changeTime": 1516705330399,
             "contentHash": "c50718f84410c1d6dea49597ddb8cc97580820f4",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +332,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTResource.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTResource.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092484,
-            "changeTime": 1516632092484,
+            "modifiedTime": 1516705330394,
+            "changeTime": 1516705330394,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +347,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTService.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTService.cls",
             "isDirectory": false,
+            "size": 5765,
+            "modifiedTime": 1516705330418,
+            "changeTime": 1516705330418,
+            "contentHash": "af779931d6e5abb19e0355677fcd8e2a4711d851",
             "isMetadataFile": false,
-            "size": 6110,
-            "modifiedTime": 1516632092520,
-            "changeTime": 1516632092520,
-            "contentHash": "6fd5361dd5548d3876ef75315d551f5a2bccc5be",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +362,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTService.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTService.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092511,
-            "changeTime": 1516632092511,
+            "modifiedTime": 1516705330413,
+            "changeTime": 1516705330413,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -377,14 +377,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTServiceTest.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTServiceTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 13657,
-            "modifiedTime": 1516632092548,
-            "changeTime": 1516632092548,
+            "modifiedTime": 1516705330440,
+            "changeTime": 1516705330440,
             "contentHash": "10e8d363d24b51b482ef619fb7174f12bcb6c4ee",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -392,14 +392,70 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTServiceTest.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ImageRESTServiceTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092541,
-            "changeTime": 1516632092541,
+            "modifiedTime": 1516705330435,
+            "changeTime": 1516705330435,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Request.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Request.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 998,
+            "modifiedTime": 1516709800042,
+            "changeTime": 1516709800042,
+            "contentHash": "0a8136533f43db1e70dcf27d7aff8a1a2737121b"
+        }
+    ],
+    [
+        "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Request.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Request.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516705330454,
+            "changeTime": 1516705330454,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Response.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Response.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 825,
+            "modifiedTime": 1516709800089,
+            "changeTime": 1516709800089,
+            "contentHash": "9598e2d2b068b584e7249bee9492e628fd5021a9"
+        }
+    ],
+    [
+        "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Response.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\Response.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516705330475,
+            "changeTime": 1516705330475,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -407,14 +463,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDAO.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDAO.cls",
             "isDirectory": false,
+            "size": 4582,
+            "modifiedTime": 1516705330528,
+            "changeTime": 1516705330528,
+            "contentHash": "5ff467e6fbaa91b7e64ed0874470c613f354f915",
             "isMetadataFile": false,
-            "size": 5666,
-            "modifiedTime": 1516632092613,
-            "changeTime": 1516632092613,
-            "contentHash": "52fdf95281f7c22a8d1282904eff43f8323fb05c",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -422,14 +478,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDAO.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDAO.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092601,
-            "changeTime": 1516632092601,
+            "modifiedTime": 1516705330523,
+            "changeTime": 1516705330523,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +493,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDTO.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDTO.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2695,
-            "modifiedTime": 1516632092637,
-            "changeTime": 1516632092637,
+            "modifiedTime": 1516705330546,
+            "changeTime": 1516705330546,
             "contentHash": "640e52ec7c0fe041cd572c57db0010e8fa77bdfe",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +508,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDTO.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardDTO.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092631,
-            "changeTime": 1516632092631,
+            "modifiedTime": 1516705330542,
+            "changeTime": 1516705330542,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,14 +523,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTResource.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTResource.cls",
             "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1516705330565,
+            "changeTime": 1516705330565,
+            "contentHash": "bfe9b0c30f026db0617f3b878e514e87f554de04",
             "isMetadataFile": false,
-            "size": 379,
-            "modifiedTime": 1516632092663,
-            "changeTime": 1516632092663,
-            "contentHash": "f50ed41afbffb6e1888456a5de5296c1ffce7cb0",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -482,14 +538,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTResource.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTResource.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092654,
-            "changeTime": 1516632092654,
+            "modifiedTime": 1516705330559,
+            "changeTime": 1516705330559,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,14 +553,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTService.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTService.cls",
             "isDirectory": false,
+            "size": 7195,
+            "modifiedTime": 1516705330584,
+            "changeTime": 1516705330584,
+            "contentHash": "14e454c4540deb6c0373c06fc350a1466b53a97c",
             "isMetadataFile": false,
-            "size": 9578,
-            "modifiedTime": 1516632092695,
-            "changeTime": 1516632092695,
-            "contentHash": "f63ff27de29434db05d64e1b7b51bf5920f5fa1c",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -512,14 +568,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTService.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCardRESTService.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092685,
-            "changeTime": 1516632092685,
+            "modifiedTime": 1516705330578,
+            "changeTime": 1516705330578,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +583,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCarsRESTServiceTest.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCarsRESTServiceTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 35203,
-            "modifiedTime": 1516632092728,
-            "changeTime": 1516632092728,
+            "modifiedTime": 1516705330604,
+            "changeTime": 1516705330604,
             "contentHash": "5974ae7f699b18f0926ba057967bf9f53779ff30",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +598,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCarsRESTServiceTest.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\ScannedBusinessCarsRESTServiceTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092719,
-            "changeTime": 1516632092719,
+            "modifiedTime": 1516705330599,
+            "changeTime": 1516705330599,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +613,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\SObjectWrapper.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\SObjectWrapper.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 640,
-            "modifiedTime": 1516632092581,
-            "changeTime": 1516632092581,
+            "modifiedTime": 1516705330510,
+            "changeTime": 1516705330510,
             "contentHash": "c578af8d11a86fa24cc1d0fb58dad4c0bb71e797",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +628,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\SObjectWrapper.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\classes\\SObjectWrapper.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1516632092574,
-            "changeTime": 1516632092574,
+            "modifiedTime": 1516705330501,
+            "changeTime": 1516705330501,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +643,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093926,
-            "changeTime": 1516632093926,
+            "modifiedTime": 1516705331920,
+            "changeTime": 1516705331920,
             "contentHash": "fb84824ec20ae45a508d68fcd9977aa084e589f5",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +658,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093141,
-            "changeTime": 1516632093141,
+            "modifiedTime": 1516705331060,
+            "changeTime": 1516705331060,
             "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +673,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
             "isDirectory": false,
+            "size": 3567,
+            "modifiedTime": 1516705330768,
+            "changeTime": 1516705330768,
+            "contentHash": "5dd591e45e6f00ccfa1973d4308ee6f36fc5fb42",
             "isMetadataFile": true,
-            "size": 3921,
-            "modifiedTime": 1516632092929,
-            "changeTime": 1516632092929,
-            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,14 +688,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093112,
-            "changeTime": 1516632093112,
-            "contentHash": "2ae73c6a920119241a858968b7a13a2118312df2",
+            "modifiedTime": 1516705330996,
+            "changeTime": 1516705330996,
+            "contentHash": "a884707f83550dbb94c410e5af850ce994ae9e3f",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -647,14 +703,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
-            "modifiedTime": 1516632092934,
-            "changeTime": 1516632092934,
+            "modifiedTime": 1516705330773,
+            "changeTime": 1516705330773,
             "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +718,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
-            "modifiedTime": 1516632092940,
-            "changeTime": 1516632092940,
+            "modifiedTime": 1516705330778,
+            "changeTime": 1516705330778,
             "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,14 +733,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 755,
-            "modifiedTime": 1516632092947,
-            "changeTime": 1516632092947,
+            "modifiedTime": 1516705330785,
+            "changeTime": 1516705330785,
             "contentHash": "bb6c857aba566d5a867fc8eb2ef33701feaa136e",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -692,14 +748,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
-            "modifiedTime": 1516632092951,
-            "changeTime": 1516632092951,
+            "modifiedTime": 1516705330796,
+            "changeTime": 1516705330796,
             "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -707,14 +763,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
-            "modifiedTime": 1516632092955,
-            "changeTime": 1516632092955,
+            "modifiedTime": 1516705330802,
+            "changeTime": 1516705330802,
             "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -722,14 +778,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
-            "modifiedTime": 1516632092959,
-            "changeTime": 1516632092959,
+            "modifiedTime": 1516705330807,
+            "changeTime": 1516705330807,
             "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -737,14 +793,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 944,
-            "modifiedTime": 1516632092964,
-            "changeTime": 1516632092964,
+            "modifiedTime": 1516705330812,
+            "changeTime": 1516705330812,
             "contentHash": "29a1e5d3eeaa43c310327c323fc51bac55de247a",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -752,14 +808,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Customer_ID__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Customer_ID__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 412,
-            "modifiedTime": 1516632092968,
-            "changeTime": 1516632092968,
+            "modifiedTime": 1516705330818,
+            "changeTime": 1516705330818,
             "contentHash": "9b978dad2d493c76b6f3437f0936cc4aa6b6400a",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -767,14 +823,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 227,
-            "modifiedTime": 1516632092973,
-            "changeTime": 1516632092973,
+            "modifiedTime": 1516705330822,
+            "changeTime": 1516705330822,
             "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -782,14 +838,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
-            "modifiedTime": 1516632092977,
-            "changeTime": 1516632092977,
+            "modifiedTime": 1516705330826,
+            "changeTime": 1516705330826,
             "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -797,14 +853,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
-            "modifiedTime": 1516632092981,
-            "changeTime": 1516632092981,
+            "modifiedTime": 1516705330830,
+            "changeTime": 1516705330830,
             "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -812,14 +868,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
-            "modifiedTime": 1516632092985,
-            "changeTime": 1516632092985,
+            "modifiedTime": 1516705330835,
+            "changeTime": 1516705330835,
             "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -827,14 +883,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
-            "modifiedTime": 1516632092990,
-            "changeTime": 1516632092990,
+            "modifiedTime": 1516705330839,
+            "changeTime": 1516705330839,
             "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -842,14 +898,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\IsCustomerPortal.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\IsCustomerPortal.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 158,
-            "modifiedTime": 1516632092994,
-            "changeTime": 1516632092994,
+            "modifiedTime": 1516705330843,
+            "changeTime": 1516705330843,
             "contentHash": "146e33098ed6548b8e7d2ccc136192180f84074b",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -857,14 +913,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\IsPartner.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\IsPartner.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
-            "modifiedTime": 1516632092997,
-            "changeTime": 1516632092997,
+            "modifiedTime": 1516705330848,
+            "changeTime": 1516705330848,
             "contentHash": "4c070a1a18290bd7036c70409bdd86a389ad7a2d",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -872,29 +928,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
-            "modifiedTime": 1516632093001,
-            "changeTime": 1516632093001,
+            "modifiedTime": 1516705330853,
+            "changeTime": 1516705330853,
             "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
-        {
-            "state": "n",
-            "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
-            "isDirectory": false,
             "isMetadataFile": true,
-            "size": 198,
-            "modifiedTime": 1516632093006,
-            "changeTime": 1516632093006,
-            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -902,14 +943,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
-            "modifiedTime": 1516632093010,
-            "changeTime": 1516632093010,
+            "modifiedTime": 1516705330858,
+            "changeTime": 1516705330858,
             "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -917,14 +958,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
-            "modifiedTime": 1516632093013,
-            "changeTime": 1516632093013,
+            "modifiedTime": 1516705330863,
+            "changeTime": 1516705330863,
             "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -932,14 +973,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 206,
-            "modifiedTime": 1516632093018,
-            "changeTime": 1516632093018,
+            "modifiedTime": 1516705330868,
+            "changeTime": 1516705330868,
             "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -947,14 +988,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 415,
-            "modifiedTime": 1516632093023,
-            "changeTime": 1516632093023,
+            "modifiedTime": 1516705330872,
+            "changeTime": 1516705330872,
             "contentHash": "eb38892ccd65bc69d70897b8069ae5e433b2df8b",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -962,14 +1003,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
-            "modifiedTime": 1516632093027,
-            "changeTime": 1516632093027,
+            "modifiedTime": 1516705330876,
+            "changeTime": 1516705330876,
             "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -977,14 +1018,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
-            "modifiedTime": 1516632093031,
-            "changeTime": 1516632093031,
+            "modifiedTime": 1516705330883,
+            "changeTime": 1516705330883,
             "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -992,14 +1033,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
-            "modifiedTime": 1516632093035,
-            "changeTime": 1516632093035,
+            "modifiedTime": 1516705330887,
+            "changeTime": 1516705330887,
             "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1007,14 +1048,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 194,
-            "modifiedTime": 1516632093040,
-            "changeTime": 1516632093040,
+            "modifiedTime": 1516705330893,
+            "changeTime": 1516705330893,
             "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1022,14 +1063,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Primary_Contact__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Primary_Contact__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 514,
-            "modifiedTime": 1516632093044,
-            "changeTime": 1516632093044,
+            "modifiedTime": 1516705330899,
+            "changeTime": 1516705330899,
             "contentHash": "321554dfd12a2cd3a6a042dd8af9d64417905676",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1037,14 +1078,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
-            "modifiedTime": 1516632093049,
-            "changeTime": 1516632093049,
+            "modifiedTime": 1516705330904,
+            "changeTime": 1516705330904,
             "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1052,14 +1093,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
-            "modifiedTime": 1516632093070,
-            "changeTime": 1516632093070,
+            "modifiedTime": 1516705330931,
+            "changeTime": 1516705330931,
             "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1067,14 +1108,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
-            "modifiedTime": 1516632093074,
-            "changeTime": 1516632093074,
+            "modifiedTime": 1516705330936,
+            "changeTime": 1516705330936,
             "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1082,14 +1123,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
-            "modifiedTime": 1516632093078,
-            "changeTime": 1516632093078,
+            "modifiedTime": 1516705330941,
+            "changeTime": 1516705330941,
             "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1097,14 +1138,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
-            "modifiedTime": 1516632093082,
-            "changeTime": 1516632093082,
+            "modifiedTime": 1516705330947,
+            "changeTime": 1516705330947,
             "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1112,14 +1153,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 336,
-            "modifiedTime": 1516632093054,
-            "changeTime": 1516632093054,
+            "modifiedTime": 1516705330910,
+            "changeTime": 1516705330910,
             "contentHash": "f8f81ab4cce6d2e54a1ddcf948fd72509610680c",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1127,14 +1168,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 383,
-            "modifiedTime": 1516632093060,
-            "changeTime": 1516632093060,
+            "modifiedTime": 1516705330917,
+            "changeTime": 1516705330917,
             "contentHash": "865775b6cbae076f26e1ceaa271e96db30ba700f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1142,14 +1183,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1091,
-            "modifiedTime": 1516632093065,
-            "changeTime": 1516632093065,
+            "modifiedTime": 1516705330925,
+            "changeTime": 1516705330925,
             "contentHash": "045ca616a8bfca7f2f8c3e089838b1b40d376c11",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1157,14 +1198,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 201,
-            "modifiedTime": 1516632093085,
-            "changeTime": 1516632093085,
+            "modifiedTime": 1516705330953,
+            "changeTime": 1516705330953,
             "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1172,14 +1213,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
-            "modifiedTime": 1516632093089,
-            "changeTime": 1516632093089,
+            "modifiedTime": 1516705330959,
+            "changeTime": 1516705330959,
             "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1187,14 +1228,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
-            "modifiedTime": 1516632093094,
-            "changeTime": 1516632093094,
+            "modifiedTime": 1516705330968,
+            "changeTime": 1516705330968,
             "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1202,14 +1243,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 940,
-            "modifiedTime": 1516632093100,
-            "changeTime": 1516632093100,
+            "modifiedTime": 1516705330976,
+            "changeTime": 1516705330976,
             "contentHash": "6cb0cb263777ce3dfdd3be11036a77e8a019da78",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1217,14 +1258,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
-            "modifiedTime": 1516632093107,
-            "changeTime": 1516632093107,
+            "modifiedTime": 1516705330980,
+            "changeTime": 1516705330980,
             "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1232,14 +1273,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
-            "modifiedTime": 1516632093113,
-            "changeTime": 1516632093113,
+            "modifiedTime": 1516705330997,
+            "changeTime": 1516705330997,
             "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1247,14 +1288,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093137,
-            "changeTime": 1516632093137,
+            "modifiedTime": 1516705331055,
+            "changeTime": 1516705331055,
             "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1262,14 +1303,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
-            "modifiedTime": 1516632093118,
-            "changeTime": 1516632093118,
+            "modifiedTime": 1516705331006,
+            "changeTime": 1516705331006,
             "contentHash": "4cd86db581f52363b344a7c71d5e7b0cd2b53ac9",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1277,14 +1318,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 213,
-            "modifiedTime": 1516632093123,
-            "changeTime": 1516632093123,
+            "modifiedTime": 1516705331011,
+            "changeTime": 1516705331011,
             "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1292,14 +1333,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\NewLastWeek.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\NewLastWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
-            "modifiedTime": 1516632093129,
-            "changeTime": 1516632093129,
+            "modifiedTime": 1516705331040,
+            "changeTime": 1516705331040,
             "contentHash": "9bc2732ea281e6a67366c1baf323a5da873ce01a",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1307,14 +1348,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
-            "modifiedTime": 1516632093133,
-            "changeTime": 1516632093133,
+            "modifiedTime": 1516705331045,
+            "changeTime": 1516705331045,
             "contentHash": "52e53fa2623bfc1b6db9c16f1a27f903fc19fcfa",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1322,14 +1363,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\PlatinumandGoldSLACustomers.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\listViews\\PlatinumandGoldSLACustomers.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 452,
-            "modifiedTime": 1516632093138,
-            "changeTime": 1516632093138,
+            "modifiedTime": 1516705331056,
+            "changeTime": 1516705331056,
             "contentHash": "5f6812369bed74a878f8accbc8424a16ea3d22b5",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1337,14 +1378,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\webLinks",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093143,
-            "changeTime": 1516632093143,
+            "modifiedTime": 1516705331062,
+            "changeTime": 1516705331062,
             "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1352,14 +1393,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 747,
-            "modifiedTime": 1516632093144,
-            "changeTime": 1516632093144,
+            "modifiedTime": 1516705331063,
+            "changeTime": 1516705331063,
             "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1367,14 +1408,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093579,
-            "changeTime": 1516632093579,
+            "modifiedTime": 1516705331669,
+            "changeTime": 1516705331669,
             "contentHash": "4768199c1f74b134d7c6bba8851d183a2e3df12c",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1382,14 +1423,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
             "isDirectory": false,
+            "size": 4765,
+            "modifiedTime": 1516705331538,
+            "changeTime": 1516705331538,
+            "contentHash": "0820aec5ba2e333bff6278f55f1624904babf771",
             "isMetadataFile": true,
-            "size": 5119,
-            "modifiedTime": 1516632093463,
-            "changeTime": 1516632093463,
-            "contentHash": "771b062e2a3f690dd566923eac8021d9d17da049",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1397,14 +1438,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093575,
-            "changeTime": 1516632093575,
+            "modifiedTime": 1516705331665,
+            "changeTime": 1516705331665,
             "contentHash": "12cf6b6a214f122eac54ed1909ba587cc15e5f6e",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1412,14 +1453,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
-            "modifiedTime": 1516632093468,
-            "changeTime": 1516632093468,
+            "modifiedTime": 1516705331544,
+            "changeTime": 1516705331544,
             "contentHash": "a5c3f07ba3a348335908401256dd2d9998990fcf",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1427,14 +1468,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
-            "modifiedTime": 1516632093473,
-            "changeTime": 1516632093473,
+            "modifiedTime": 1516705331548,
+            "changeTime": 1516705331548,
             "contentHash": "84c07618a25ba4a26dcbb7fdea901e9cfb7bdfea",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1442,14 +1483,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
-            "modifiedTime": 1516632093477,
-            "changeTime": 1516632093477,
+            "modifiedTime": 1516705331554,
+            "changeTime": 1516705331554,
             "contentHash": "d7e98ed90f81499c3b80a6121310c8e81353db12",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1457,14 +1498,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
-            "modifiedTime": 1516632093481,
-            "changeTime": 1516632093481,
+            "modifiedTime": 1516705331558,
+            "changeTime": 1516705331558,
             "contentHash": "104e9a00a8886c6a98a247cf4d799fca91cb5cf6",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1472,14 +1513,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
-            "modifiedTime": 1516632093486,
-            "changeTime": 1516632093486,
+            "modifiedTime": 1516705331562,
+            "changeTime": 1516705331562,
             "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1487,14 +1528,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
-            "modifiedTime": 1516632093490,
-            "changeTime": 1516632093490,
+            "modifiedTime": 1516705331572,
+            "changeTime": 1516705331572,
             "contentHash": "3b56db2ab17440e863bd220f7b949c6666a8aa21",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1502,14 +1543,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
-            "modifiedTime": 1516632093494,
-            "changeTime": 1516632093494,
+            "modifiedTime": 1516705331576,
+            "changeTime": 1516705331576,
             "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1517,14 +1558,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
-            "modifiedTime": 1516632093498,
-            "changeTime": 1516632093498,
+            "modifiedTime": 1516705331579,
+            "changeTime": 1516705331579,
             "contentHash": "a69a1b0e3f0e15fe44c968e2d0c859d8a264cb1a",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1532,14 +1573,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 194,
-            "modifiedTime": 1516632093503,
-            "changeTime": 1516632093503,
+            "modifiedTime": 1516705331584,
+            "changeTime": 1516705331584,
             "contentHash": "59513f0c3aba9cf2ca1fa13dd33c44eba996ef42",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1547,14 +1588,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
-            "modifiedTime": 1516632093507,
-            "changeTime": 1516632093507,
+            "modifiedTime": 1516705331587,
+            "changeTime": 1516705331587,
             "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1562,14 +1603,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 207,
-            "modifiedTime": 1516632093511,
-            "changeTime": 1516632093511,
+            "modifiedTime": 1516705331591,
+            "changeTime": 1516705331591,
             "contentHash": "ff5f1905a424ffb80a86c672ce8a2484010686e7",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1577,14 +1618,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 205,
-            "modifiedTime": 1516632093514,
-            "changeTime": 1516632093514,
+            "modifiedTime": 1516705331594,
+            "changeTime": 1516705331594,
             "contentHash": "8436af1a1e25d1251260bd40b57c3d17b97ff22d",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1592,14 +1633,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
-            "modifiedTime": 1516632093517,
-            "changeTime": 1516632093517,
+            "modifiedTime": 1516705331598,
+            "changeTime": 1516705331598,
             "contentHash": "0bf76b491bbd8c15dd147134365be4f3c3f46c31",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1607,14 +1648,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
-            "modifiedTime": 1516632093521,
-            "changeTime": 1516632093521,
+            "modifiedTime": 1516705331602,
+            "changeTime": 1516705331602,
             "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1622,14 +1663,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 466,
-            "modifiedTime": 1516632093525,
-            "changeTime": 1516632093525,
+            "modifiedTime": 1516705331606,
+            "changeTime": 1516705331606,
             "contentHash": "3a477896fd04b31e6d135ca0ea5559d9b5aff228",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1637,14 +1678,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 159,
-            "modifiedTime": 1516632093528,
-            "changeTime": 1516632093528,
+            "modifiedTime": 1516705331610,
+            "changeTime": 1516705331610,
             "contentHash": "dda4a3e4f235d3020ac7ec9ecad60f97db34e5ff",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1652,14 +1693,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 158,
-            "modifiedTime": 1516632093533,
-            "changeTime": 1516632093533,
+            "modifiedTime": 1516705331615,
+            "changeTime": 1516705331615,
             "contentHash": "831121050c56f562af9389f75edae3a5ab0351f1",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1667,14 +1708,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 225,
-            "modifiedTime": 1516632093537,
-            "changeTime": 1516632093537,
+            "modifiedTime": 1516705331620,
+            "changeTime": 1516705331620,
             "contentHash": "2edc10a4308166ada8b0fc2bece939fb3eea84b8",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1682,14 +1723,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
             "isDirectory": false,
+            "size": 901,
+            "modifiedTime": 1516705331625,
+            "changeTime": 1516705331625,
+            "contentHash": "376720fc2c798ac686e201ed6748f7bf2036c8f3",
             "isMetadataFile": true,
-            "size": 943,
-            "modifiedTime": 1516632093541,
-            "changeTime": 1516632093541,
-            "contentHash": "7ab95b0a1b0c2d75a772d9ea83361375e19db83e",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1697,14 +1738,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
-            "modifiedTime": 1516632093545,
-            "changeTime": 1516632093545,
+            "modifiedTime": 1516705331630,
+            "changeTime": 1516705331630,
             "contentHash": "2aee360d036169b3a3b599183c72b43d549f6b61",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1712,14 +1753,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
-            "modifiedTime": 1516632093549,
-            "changeTime": 1516632093549,
+            "modifiedTime": 1516705331634,
+            "changeTime": 1516705331634,
             "contentHash": "877087142debc4ed3ae3ae152908d60f1e5b8e4e",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1727,14 +1768,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
-            "modifiedTime": 1516632093553,
-            "changeTime": 1516632093553,
+            "modifiedTime": 1516705331639,
+            "changeTime": 1516705331639,
             "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1742,14 +1783,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 201,
-            "modifiedTime": 1516632093557,
-            "changeTime": 1516632093557,
+            "modifiedTime": 1516705331643,
+            "changeTime": 1516705331643,
             "contentHash": "dd9820d5134fc39ed321237cbdef5a60b5776771",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1757,14 +1798,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
-            "modifiedTime": 1516632093561,
-            "changeTime": 1516632093561,
+            "modifiedTime": 1516705331647,
+            "changeTime": 1516705331647,
             "contentHash": "3d50c3aaf57f7e42a001693e02e91ae0222af0e8",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1772,14 +1813,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
-            "modifiedTime": 1516632093565,
-            "changeTime": 1516632093565,
+            "modifiedTime": 1516705331653,
+            "changeTime": 1516705331653,
             "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1787,14 +1828,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 194,
-            "modifiedTime": 1516632093568,
-            "changeTime": 1516632093568,
+            "modifiedTime": 1516705331657,
+            "changeTime": 1516705331657,
             "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1802,14 +1843,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
-            "modifiedTime": 1516632093572,
-            "changeTime": 1516632093572,
+            "modifiedTime": 1516705331662,
+            "changeTime": 1516705331662,
             "contentHash": "7252f1ae0d0fff985c8d3d75c2c66b704d304262",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1817,14 +1858,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 194,
-            "modifiedTime": 1516632093576,
-            "changeTime": 1516632093576,
+            "modifiedTime": 1516705331666,
+            "changeTime": 1516705331666,
             "contentHash": "8a48fbd36a0119a80ca1a7b0a48a57b35bd03141",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1832,14 +1873,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632093596,
-            "changeTime": 1516632093596,
+            "modifiedTime": 1516705331690,
+            "changeTime": 1516705331690,
             "contentHash": "fdd6e7e6e1dff4a43f0a13b94a9255c2aab9b3a1",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1847,14 +1888,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
-            "modifiedTime": 1516632093581,
-            "changeTime": 1516632093581,
+            "modifiedTime": 1516705331672,
+            "changeTime": 1516705331672,
             "contentHash": "b1890d7f9fe00ddd4a6dc20150314c3e5cc7bac9",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1862,14 +1903,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 378,
-            "modifiedTime": 1516632093584,
-            "changeTime": 1516632093584,
+            "modifiedTime": 1516705331677,
+            "changeTime": 1516705331677,
             "contentHash": "f4296d09b623a562e0d0769e8eec6c0c40529c1f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1877,14 +1918,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\MyContacts.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\MyContacts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 213,
-            "modifiedTime": 1516632093589,
-            "changeTime": 1516632093589,
+            "modifiedTime": 1516705331682,
+            "changeTime": 1516705331682,
             "contentHash": "97534343a3a56570c391065168b4b317964498a8",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1892,14 +1933,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\NewLastWeek.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\NewLastWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
-            "modifiedTime": 1516632093593,
-            "changeTime": 1516632093593,
+            "modifiedTime": 1516705331687,
+            "changeTime": 1516705331687,
             "contentHash": "926e72493feb4edbe83f4d15bf8f65c0ed16f06f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1907,14 +1948,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
-            "modifiedTime": 1516632093597,
-            "changeTime": 1516632093597,
+            "modifiedTime": 1516705331691,
+            "changeTime": 1516705331691,
             "contentHash": "8f5af3e68ca4a765b1e8289468b3bed022fc9488",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1922,14 +1963,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632094132,
-            "changeTime": 1516632094132,
+            "modifiedTime": 1516705332055,
+            "changeTime": 1516705332055,
             "contentHash": "8e287489141e1a83903f3df8e49494a06946868e",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1937,14 +1978,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632094126,
-            "changeTime": 1516632094126,
+            "modifiedTime": 1516705332051,
+            "changeTime": 1516705332051,
             "contentHash": "7ee6fc0568aa897e3f51aa2cf4a3a89a23e6a36e",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1952,14 +1993,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Account_Name__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Account_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 554,
-            "modifiedTime": 1516632093938,
-            "changeTime": 1516632093938,
+            "modifiedTime": 1516705331929,
+            "changeTime": 1516705331929,
             "contentHash": "4fd1746d97de13a3d0f6b2877a6ec3a6a749c367",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1967,14 +2008,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Account__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Account__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 681,
-            "modifiedTime": 1516632093944,
-            "changeTime": 1516632093944,
+            "modifiedTime": 1516705331933,
+            "changeTime": 1516705331933,
             "contentHash": "0d0d90027ed29235a97d918bb71ccccdd2df6a5c",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1982,14 +2023,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Address__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Address__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 940,
-            "modifiedTime": 1516632093951,
-            "changeTime": 1516632093951,
+            "modifiedTime": 1516705331938,
+            "changeTime": 1516705331938,
             "contentHash": "e261e9414280cb7ec1788d1f493ad0ec49726cfe",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1997,14 +2038,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\City__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 428,
-            "modifiedTime": 1516632093959,
-            "changeTime": 1516632093959,
+            "modifiedTime": 1516705331942,
+            "changeTime": 1516705331942,
             "contentHash": "5cbd1dd6e4ebd131728e24873062f0a0376a4ee0",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2012,14 +2053,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Contact_Name__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Contact_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 582,
-            "modifiedTime": 1516632093965,
-            "changeTime": 1516632093965,
+            "modifiedTime": 1516705331946,
+            "changeTime": 1516705331946,
             "contentHash": "cf69728461a2372852ea2eaad79d304ed641183e",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2027,14 +2068,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Contact__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Contact__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 681,
-            "modifiedTime": 1516632093978,
-            "changeTime": 1516632093978,
+            "modifiedTime": 1516705331951,
+            "changeTime": 1516705331951,
             "contentHash": "ff0d2474cc25974da7208471ea13d49a1ffa495f",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2042,14 +2083,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Country__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Country__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 434,
-            "modifiedTime": 1516632093983,
-            "changeTime": 1516632093983,
+            "modifiedTime": 1516705331955,
+            "changeTime": 1516705331955,
             "contentHash": "ba7d52831e95972c65aad8dbc85605b19a38b995",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2057,14 +2098,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Created_By_Id__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Created_By_Id__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 534,
-            "modifiedTime": 1516632093988,
-            "changeTime": 1516632093988,
+            "modifiedTime": 1516705331959,
+            "changeTime": 1516705331959,
             "contentHash": "f04b7cffce57de5bea175cf41940f8e27a76f155",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2072,14 +2113,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Email__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 515,
-            "modifiedTime": 1516632093993,
-            "changeTime": 1516632093993,
+            "modifiedTime": 1516705331963,
+            "changeTime": 1516705331963,
             "contentHash": "349484740b01f64840f8749e4ad5e1b68525d8bd",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2087,14 +2128,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Fax__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Fax__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 482,
-            "modifiedTime": 1516632093998,
-            "changeTime": 1516632093998,
+            "modifiedTime": 1516705331967,
+            "changeTime": 1516705331967,
             "contentHash": "7e4f3cad24235ea392fd73088f7e62dac0d259aa",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2102,14 +2143,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\First_Name__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\First_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 554,
-            "modifiedTime": 1516632094004,
-            "changeTime": 1516632094004,
+            "modifiedTime": 1516705331971,
+            "changeTime": 1516705331971,
             "contentHash": "5577b80a9ac019d4d3885e0bd3d3106f10fd52b4",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2117,14 +2158,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Full_Name__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Full_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 640,
-            "modifiedTime": 1516632094011,
-            "changeTime": 1516632094011,
+            "modifiedTime": 1516705331975,
+            "changeTime": 1516705331975,
             "contentHash": "3b13b61a6e98979a391a9169c084793f5b84104b",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2132,14 +2173,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Last_Name__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Last_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 551,
-            "modifiedTime": 1516632094016,
-            "changeTime": 1516632094016,
+            "modifiedTime": 1516705331980,
+            "changeTime": 1516705331980,
             "contentHash": "6ca8b7f634841287bf45068f0245512096fd49b2",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2147,14 +2188,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Mobile__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Mobile__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 492,
-            "modifiedTime": 1516632094022,
-            "changeTime": 1516632094022,
+            "modifiedTime": 1516705331985,
+            "changeTime": 1516705331985,
             "contentHash": "cea66d92e8f3fc01e970c2117dcb7a83544bdcad",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2162,14 +2203,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Notes__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Notes__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 504,
-            "modifiedTime": 1516632094031,
-            "changeTime": 1516632094031,
+            "modifiedTime": 1516705331990,
+            "changeTime": 1516705331990,
             "contentHash": "a3aba0d72d2f8d640f28cabe2bc6ae737444dee6",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2177,14 +2218,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Phone__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Phone__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 489,
-            "modifiedTime": 1516632094035,
-            "changeTime": 1516632094035,
+            "modifiedTime": 1516705331994,
+            "changeTime": 1516705331994,
             "contentHash": "34428bd0be8d1712276a749bd33f58605d1669b6",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2192,14 +2233,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Postcode__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Postcode__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 436,
-            "modifiedTime": 1516632094089,
-            "changeTime": 1516632094089,
+            "modifiedTime": 1516705332000,
+            "changeTime": 1516705332000,
             "contentHash": "8f7a04603b83ce062121861d6f2e46aef01135ae",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2207,14 +2248,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Salutation__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Salutation__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 554,
-            "modifiedTime": 1516632094094,
-            "changeTime": 1516632094094,
+            "modifiedTime": 1516705332022,
+            "changeTime": 1516705332022,
             "contentHash": "3e7b4a425fa0502f0b79a17553f57d7e84b34379",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2222,14 +2263,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\State_Country__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\State_Country__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 448,
-            "modifiedTime": 1516632094099,
-            "changeTime": 1516632094099,
+            "modifiedTime": 1516705332029,
+            "changeTime": 1516705332029,
             "contentHash": "19943be722f398c63c68e0af60263aeded821ad3",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2237,14 +2278,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Status__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1076,
-            "modifiedTime": 1516632094108,
-            "changeTime": 1516632094108,
+            "modifiedTime": 1516705332034,
+            "changeTime": 1516705332034,
             "contentHash": "c70b4e9600d83543a5e18c6a9397834aa2577741",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2252,14 +2293,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Street1__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Street1__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 435,
-            "modifiedTime": 1516632094113,
-            "changeTime": 1516632094113,
+            "modifiedTime": 1516705332038,
+            "changeTime": 1516705332038,
             "contentHash": "874fe182f054375eaad42b2d60243ac6f2b63808",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2267,14 +2308,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Street2__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Street2__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 435,
-            "modifiedTime": 1516632094117,
-            "changeTime": 1516632094117,
+            "modifiedTime": 1516705332043,
+            "changeTime": 1516705332043,
             "contentHash": "8b76969656c9b3088cf270b6c469b26bbcace3e5",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2282,14 +2323,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Title__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Title__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 539,
-            "modifiedTime": 1516632094122,
-            "changeTime": 1516632094122,
+            "modifiedTime": 1516705332047,
+            "changeTime": 1516705332047,
             "contentHash": "143fce0499b62ecce1c39e0f060e81c6720d09d1",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2297,14 +2338,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Website__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\fields\\Website__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 381,
-            "modifiedTime": 1516632094127,
-            "changeTime": 1516632094127,
+            "modifiedTime": 1516705332052,
+            "changeTime": 1516705332052,
             "contentHash": "5489bf8205ec272f4037d23df449783cbad16af7",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2312,14 +2353,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\listViews",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632094133,
-            "changeTime": 1516632094133,
+            "modifiedTime": 1516705332057,
+            "changeTime": 1516705332057,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2327,14 +2368,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
-            "modifiedTime": 1516632094134,
-            "changeTime": 1516632094134,
+            "modifiedTime": 1516705332058,
+            "changeTime": 1516705332058,
             "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2342,14 +2383,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\Scanned_Business_Cards__c.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\objects\\Scanned_Business_Cards__c\\Scanned_Business_Cards__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2233,
-            "modifiedTime": 1516632093932,
-            "changeTime": 1516632093932,
+            "modifiedTime": 1516705331924,
+            "changeTime": 1516705331924,
             "contentHash": "22130086b449491ad0116670b65c27cf78291894",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2357,14 +2398,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\tabs",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632094279,
-            "changeTime": 1516632094279,
+            "modifiedTime": 1516705332180,
+            "changeTime": 1516705332180,
             "contentHash": "3be46c00a762a1b17f6ccf2900415ce4f1ff7ed1",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2372,14 +2413,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\tabs\\Scanned_Business_Cards__c.tab-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\tabs\\Scanned_Business_Cards__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 441,
-            "modifiedTime": 1516632094280,
-            "changeTime": 1516632094280,
+            "modifiedTime": 1516705332181,
+            "changeTime": 1516705332181,
             "contentHash": "99a6134b883c16d2b33637e1f057ca66476db6c2",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2387,14 +2428,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632094338,
-            "changeTime": 1516632094338,
+            "modifiedTime": 1516705332238,
+            "changeTime": 1516705332238,
             "contentHash": "1191859776b2c94f609b73b55b673c3f102adf24",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2402,14 +2443,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 490,
-            "modifiedTime": 1516632094299,
-            "changeTime": 1516632094299,
+            "modifiedTime": 1516705332197,
+            "changeTime": 1516705332197,
             "contentHash": "738254586143e8abf03945db36670d76d0b63197",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2417,14 +2458,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
-            "modifiedTime": 1516632094293,
-            "changeTime": 1516632094293,
+            "modifiedTime": 1516705332191,
+            "changeTime": 1516705332191,
             "contentHash": "f4fa2f66f8bb3776185595bdb1839ef7e913cd99",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2432,14 +2473,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\CardTrigger.trigger",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\CardTrigger.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 501,
-            "modifiedTime": 1516632094321,
-            "changeTime": 1516632094321,
+            "modifiedTime": 1516705332218,
+            "changeTime": 1516705332218,
             "contentHash": "56638d42f7e3ea76282b6a15a38d1fbf223bebe3",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2447,14 +2488,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\CardTrigger.trigger-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\CardTrigger.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
-            "modifiedTime": 1516632094315,
-            "changeTime": 1516632094315,
+            "modifiedTime": 1516705332213,
+            "changeTime": 1516705332213,
             "contentHash": "f4fa2f66f8bb3776185595bdb1839ef7e913cd99",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2462,14 +2503,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\ContactTrigger.trigger",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\ContactTrigger.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 485,
-            "modifiedTime": 1516632094339,
-            "changeTime": 1516632094339,
+            "modifiedTime": 1516705332238,
+            "changeTime": 1516705332238,
             "contentHash": "f61221261f97432fde0d37ee8ba1d1966caee326",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2477,14 +2518,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\ContactTrigger.trigger-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch\\force-app\\main\\default\\triggers\\ContactTrigger.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
-            "modifiedTime": 1516632094334,
-            "changeTime": 1516632094334,
+            "modifiedTime": 1516705332232,
+            "changeTime": 1516705332232,
             "contentHash": "f4fa2f66f8bb3776185595bdb1839ef7e913cd99",
+            "isMetadataFile": true,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -2492,14 +2533,14 @@
     [
         "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pshchur\\IdeaProjects\\BusinessCardsRESTIntegrationScratch",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516632106189,
-            "changeTime": 1516632106189,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "modifiedTime": 1516705490903,
+            "changeTime": 1516705490903,
+            "contentHash": "2314258f5a632ae1cc38cf35097f0dc26cf1368d",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }

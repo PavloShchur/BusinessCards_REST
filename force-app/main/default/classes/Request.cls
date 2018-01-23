@@ -21,18 +21,6 @@ public without sharing class Request {
 		return getInstance().request;
 	}
 
-	public String getMethod() {
-		return getRequest().httpMethod;
-	}
-
-	public String getHeader( String paramName ) {
-		return getRequest().headers.get( paramName );
-	}
-
-	public String getParam( String paramName ) {
-		return getRequest().params.get( paramName );
-	}
-
 	public Blob getBody() {
 		return getRequest().requestBody;
 	}
@@ -47,10 +35,6 @@ public without sharing class Request {
 	public Object getBodyAsClass( Type apexType ) {
 		if( apexType == null ) return null;
 		return JSON.deserialize( getBodyAsString(), apexType );
-	}
-
-	public Object getBodyAsJson() {
-		return JSON.deserializeUntyped( getBodyAsString() );
 	}
 
 	public String getBodyAsString() {
